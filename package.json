@@ -1,0 +1,25 @@
+{
+  "name": "ima-sdk",
+  "version": "0.0.1",
+  "description": "Practice project for learning the IMA SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpmedley/ima-sdk.git"
+  },
+  "keywords": [
+    "IMA",
+    "Media",
+    "Ads",
+    "Monetization"
+  ],
+  "author": "Joseph Medley <jmedley@google.com> (https://developers.google.com/web)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpmedley/ima-sdk/issues"
+  },
+  "homepage": "https://github.com/jpmedley/ima-sdk#readme"
+}
